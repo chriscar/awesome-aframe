@@ -115,6 +115,7 @@ Third-party A-Frame components (of the entity-component-system pattern).
 - [href](https://github.com/gasolin/aframe-href-component) - Link to other pages using cursor component
 - [UI Modal](https://github.com/IdeaSpaceVR/aframe-ui-modal-component) - Show dialog box or a menu in front of the camera
 - [Cubemap](https://github.com/bryik/aframe-cubemap-component) - Create a skybox from a cubemap
+- [Particle System](https://github.com/IdeaSpaceVR/aframe-particle-system-component) - Create a particle system or use a preset: dust, rain, snow.
 
 ### Shaders
 
